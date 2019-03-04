@@ -2,3 +2,6 @@ hello world git
 
 this is branch. 
 creting a new branch is quick.
+
+this is merge test 
+
