@@ -5,3 +5,5 @@ creting a new branch is quick.
 
 this is merge test 
 
+
+creating a new branch is quick & simple
